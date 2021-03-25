@@ -1,5 +1,6 @@
 # `renv`/`targets` dependency discovery issue
 
+*Below references renv 0.13.0. [Issue fixed](https://github.com/rstudio/renv/commit/6c187e5bb58b468ce5bf540f4f67ec85689dbf65) in 0.13.1-11*
 
 ## Background
 
@@ -33,9 +34,11 @@ attached base packages:
 [1] stats     graphics  grDevices datasets  utils     methods   base     
 
 loaded via a namespace (and not attached):
- [1] igraph_1.2.6      rstudioapi_0.13   magrittr_2.0.1    tidyselect_1.1.0  R6_2.5.0          rlang_0.4.10     
- [7] fansi_0.4.2       tools_4.0.3       targets_0.2.0     data.table_1.14.1 utf8_1.2.1        cli_2.3.1        
-[13] withr_2.4.1       ellipsis_0.3.1    assertthat_0.2.1  digest_0.6.27     tibble_3.1.0      lifecycle_1.0.0  
-[19] crayon_1.4.1      processx_3.4.5    purrr_0.3.4       callr_3.5.1       vctrs_0.3.6       ps_1.6.0         
-[25] codetools_0.2-18  glue_1.4.2        compiler_4.0.3    pillar_1.5.1      renv_0.13.0       pkgconfig_2.0.3  
+ [1] pillar_1.5.1      compiler_4.0.3    targets_0.2.0     tools_4.0.3       digest_0.6.27     lifecycle_1.0.0  
+ [7] tibble_3.1.0      gtable_0.3.0      pkgconfig_2.0.3   rlang_0.4.10      igraph_1.2.6      cli_2.3.1        
+[13] DBI_1.1.1         rstudioapi_0.13   withr_2.4.1       dplyr_1.0.5       generics_0.1.0    vctrs_0.3.6      
+[19] grid_4.0.3        tidyselect_1.1.0  glue_1.4.2        data.table_1.14.1 R6_2.5.0          processx_3.4.5   
+[25] fansi_0.4.2       farver_2.1.0      callr_3.5.1       purrr_0.3.4       ggplot2_3.3.3     magrittr_2.0.1   
+[31] scales_1.1.1      codetools_0.2-18  ps_1.6.0          ellipsis_0.3.1    assertthat_0.2.1  colorspace_2.0-0 
+[37] renv_0.13.1-11    labeling_0.4.2    utf8_1.2.1        munsell_0.5.0     crayon_1.4.1   
 ```

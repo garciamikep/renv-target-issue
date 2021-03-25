@@ -1,3 +1,9 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+raw_data_file|stem||b6df0c34fc22d1b9|ef46db3751d8e999|2110307107||||0|file|vector|||0.006|there is no package called tidyverse|could not find packages biglm, tidyverse in library paths
+create_plot|function|ab9344eabf5bc41d||||||||||||||
 create_plot|function|ab9344eabf5bc41d
-raw_data_file|stem||b6df0c34fc22d1b9|ef46db3751d8e999|2110307107||||0|file|vector|||0.006|there is no package called tidyverse|could not find packages biglm, tidyverse in library paths 
+raw_data_file|stem|18249aa3ba43d359|b6df0c34fc22d1b9|ef46db3751d8e999|2110307107|data/raw_data.csv|46440f022a19e506|b1a5d9836ec7e80d|2890|file|vector|||1.337||
+raw_data|stem|3f26a3f55c67bd81|000ed0cc054f0d35|8085693630e9c29b|-979620141|_targets/objects/raw_data|73bdbb30c3a785a1|f014ea880cc796a7|1506|rds|vector|||0.062||
+data|stem|b3ad3bf9f517ed1f|df3101ce91c63e21|6c7bf50fb4cc72dd|1588979285|_targets/objects/data|f1799ae61187784d|6f67206766347cbe|1507|rds|vector|||0.012||
+fit|stem|c28c978575ddbf7f|aa0df6c5dbd10537|4d671573419c5425|1780184594|_targets/objects/fit|fc0da15a790010c3|e73ff698ed2d36bd|1970|rds|vector|||0.003||
+hist|stem|7f7cce0dee150bd7|68877181ab74e51e|e2a1648e33eaf162|-1026346201|_targets/objects/hist|c664ea71915f6985|7224e28084d41d9e|44770|rds|vector|||0.015||
